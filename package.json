@@ -44,7 +44,7 @@
   "description": "A proxy server for Netease Music...",
   "main": "dist/bin/unblockneteasemusic.js",
   "devDependencies": {
-    "ajv": "^5.5.2",
+    "ajv": "^6.12.3",
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^14.1.0",
     "eslint-plugin-es-beautifier": "^1.0.1",
